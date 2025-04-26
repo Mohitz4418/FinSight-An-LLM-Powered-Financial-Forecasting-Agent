@@ -31,5 +31,5 @@ Configure the agent by editing the `config.json` file with your API keys and des
 
 2. Run the project using the following command:
     ```python
-    python main.py
+    python app.py
     ```
