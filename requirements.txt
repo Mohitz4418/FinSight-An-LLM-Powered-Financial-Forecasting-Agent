@@ -1,0 +1,10 @@
+numpy
+pandas
+yfinance
+matplotlib
+google-generativeai
+newsapi-python
+scikit-learn
+streamlit
+plotly
+python-dotenv
